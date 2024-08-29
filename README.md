@@ -21,8 +21,10 @@ This project was a great opportunity to showcase my skills in:
 🔹 Data handling and visualization
 🔹 Theming and accessibility
 
-Linkdin Link :-
-Live Link :-
+Linkdin Link :- https://www.linkedin.com/feed/update/urn:li:activity:7234809581053333505/
+
+Live Link :- https://base-rose-theta.vercel.app/
+
 I'm proud of how it turned out and excited to continue pushing my skills forward! 💪
 
 Thanks for taking a look, and feel free to reach out if you'd like to discuss any aspects of the project! 😊
